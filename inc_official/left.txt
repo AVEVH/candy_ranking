@@ -1,0 +1,32 @@
+	<ul id="btn_area" class="nav nav-pills">
+		<li><a href="/index_sample.php"><img src="/images_official/home_off.jpg" onmouseover="this.src='/images_official/home_on.jpg'" onmouseout="this.src='/images_official/home_off.jpg'" /></a></li>
+		<li><a href="/rank/"><img src="/images_official/ranking_off.jpg" onmouseover="this.src='/images_official/ranking_on.jpg'" onmouseout="this.src='/images_official/ranking_off.jpg'" /></a></li>
+		<li><a href="/staff/"><img src="/images_official/staff_off.jpg" onmouseover="this.src='/images_official/staff_on.jpg'" onmouseout="this.src='/images_official/staff_off.jpg'" /></a></li>
+		<li><a href="/system/"><img src="/images_official/system_off.jpg" onmouseover="this.src='/images_official/system_on.jpg'" onmouseout="this.src='/images_official/system_off.jpg'" /></a></li>
+		<li><a href="/gallery/"><img src="/images_official/gallery_off.jpg" onmouseover="this.src='/images_official/gallery_on.jpg'" onmouseout="this.src='/images_official/gallery_off.jpg'" /></a></li>
+		<li><a href="/schedule/"><img src="/images_official/sche_off.jpg" onmouseover="this.src='/images_official/sche_on.jpg'" onmouseout="this.src='/images_official/sche_off.jpg'" /></a></li>
+		<li><a href="/blog/"><img src="/images_official/blog_off.jpg" onmouseover="this.src='/images_official/blog_on.jpg'" onmouseout="this.src='/images_official/blog_off.jpg'" /></a></li>
+		<li><a href="/movie/"><img src="/images_official/movie_off.jpg" onmouseover="this.src='/images_official/movie_on.jpg'" onmouseout="this.src='/images_official/movie_off.jpg'" /></a></li>
+		<li><a href="/recruit/" target="_blank"><img src="/images_official/recruit_off.jpg" onmouseover="this.src='/images_official/recruit_on.jpg'" onmouseout="this.src='/images_official/recruit_off.jpg'" /></a></li>
+	</ul>
+	
+	<a href="/recruit/" target="_blank"><img src="/images_official/bnr_recruit.jpg" alt="求人サイト" width="200" height="180" class="left_img"/></a>
+	
+	<div id="link_area">
+		<a href="http://topdandy.jp/" target="_blank"><img src="/images_official/link_td.jpg" onmouseover="this.src='/images_official/link_td_on.jpg'" onmouseout="this.src='/images_official/link_td.jpg'" /></a>
+		<a href="http://topdandy1st.jp/" target="_blank"><img src="/images_official/link_1st.jpg" onmouseover="this.src='/images_official/link_1st_on.jpg'" onmouseout="this.src='/images_official/link_1st.jpg'" /></a>
+		<a href="http://dolce1.jp/" target="_blank"><img src="/images_official/link_dolce1.jpg" onmouseover="this.src='/images_official/link_dolce1_on.jpg'" onmouseout="this.src='/images_official/link_dolce1.jpg'" /></a>
+		<a href="http://t-ios.com/" target="_blank"><img src="/images_official/link_ios.jpg" onmouseover="this.src='/images_official/link_ios_on.jpg'" onmouseout="this.src='/images_official/link_ios.jpg'" /></a>
+		<a href="http://luminositenet.com/" target="_blank"><img src="/images_official/link_lum.jpg" onmouseover="this.src='/images_official/link_lum_on.jpg'" onmouseout="this.src='/images_official/link_lum.jpg'" /></a>
+		<a href="http://lmille.com/" target="_blank"><img src="/images_official/link_mille.jpg" onmouseover="this.src='/images_official/link_mille_on.jpg'" onmouseout="this.src='/images_official/link_mille.jpg'" /></a>
+		<a href="http://www.kingdom-no1.com/sapporo/" target="_blank"><img src="/images_official/link_kd.jpg" onmouseover="this.src='/images_official/link_kd_on.jpg'" onmouseout="this.src='/images_official/link_kd.jpg'" /></a>
+		<a href="http://www.kingdom-no1.com/yokohama/" target="_blank"><img src="/images_official/link_kb.jpg" onmouseover="this.src='/images_official/link_kb_on.jpg'" onmouseout="this.src='/images_official/link_kb.jpg'" /></a>
+		<a href="http://www.kingdom-no1.com/yokohama1st/" target="_blank"><img src="/images_official/link_kc.jpg" onmouseover="this.src='/images_official/link_kc_on.jpg'" onmouseout="this.src='/images_official/link_kc.jpg'" /></a>
+		<a href="http://clubleo.jp/" target="_blank"><img src="/images_official/link_leo.jpg" onmouseover="this.src='/images_official/link_leo_on.jpg'" onmouseout="this.src='/images_official/link_leo.jpg'" /></a>
+		<a href="http://club-red.jp/" target="_blank"><img src="/images_official/link_red.jpg" onmouseover="this.src='/images_official/link_red_on.jpg'" onmouseout="this.src='/images_official/link_red.jpg'" /></a>
+		<a href="http://club-ism.me/" target="_blank"><img src="/images_official/link_ism.jpg" onmouseover="this.src='/images_official/link_ism_on.jpg'" onmouseout="this.src='/images_official/link_ism.jpg'" /></a>
+	</div>
+	
+	
+	
+	
